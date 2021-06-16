@@ -1,5 +1,5 @@
 ## Home-Baked-Minecraft-Dev
-[](https://komarev.com/ghpvc/?username=UltraBlackLinux&label=Visitors&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=UltraBlackLinux&label=Visitors&color=0e75b6&style=flat"/>
 
 I am mostly working on Fabric mods
 
