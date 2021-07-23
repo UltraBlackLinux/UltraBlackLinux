@@ -1,10 +1,10 @@
-## Home-Baked-Minecraft-Dev
+## Home-Baked Java and C++ Dev
 <img src="https://komarev.com/ghpvc/?username=UltraBlackLinux&label=Visitors&color=0e75b6&style=flat"/>
 
-I am mostly working on Fabric mods
+I am mostly working on Fabric mods, and C++ (LIP - Learning In Progress)
 
 
-## Random fancy stuff nobody wants to know:
+## *Fancy*:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=UltraBlackLinux&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 
