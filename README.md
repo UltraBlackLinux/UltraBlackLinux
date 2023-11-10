@@ -3,7 +3,7 @@
 
 I am mostly working on Fabric mods, and C++ (LIP - Learning In Progress)
 
-Btw: Github is a piece of garbage. I am now ~~[here](https://gitlab.com/users/UltraBlackLinux/)~~ [HERE](https://server.chonkyrabbit.eu/git/UltraBlack).
+Btw: Github is a piece of garbage. I am now ~~[here](https://gitlab.com/users/UltraBlackLinux/)~~ [HERE](https://chonkyrabbit.eu/git).
 
 # For those of you, that are somehow unable to read, look above this line! Also known as up, or as a symbol: ^ /\
 
