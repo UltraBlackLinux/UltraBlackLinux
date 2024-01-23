@@ -1,19 +1,14 @@
-## Home-Baked Java and C++ Dev
-<img src="https://komarev.com/ghpvc/?username=UltraBlackLinux&label=Visitors&color=0e75b6&style=flat"/>
+## Arch connoisseur, linux enjoyer.
+(Just kidding, I know nothing. Linux is so vast and advanced)
 
-I am mostly working on Fabric mods, and C++ (LIP - Learning In Progress)
+Java, C++, Typescript, Lua (Never give up, no, no)
 
-Btw: Github is a piece of garbage. I am now ~~[here](https://gitlab.com/users/UltraBlackLinux/)~~ [HERE](https://chonkyrabbit.eu/git).
-
-# For those of you, that are somehow unable to read, look above this line! Also known as up, or as a symbol: ^ /\
+Btw: I don't really trust Github, nor like it. You can find my stuff [here](https://chonkyrabbit.eu/git). (You should _really_ get into self-hosting. Very interesting...)
 
 
-## *Fancy*:
+### meaningless stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=UltraBlackLinux&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 
-![Stats²](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraBlackLinux&count_private=true&theme=calm&cache_seconds=7288)
 
-
-
-BTW, I use Arch
+<img src="https://komarev.com/ghpvc/?username=UltraBlackLinux&label=Visitors&color=0e75b6&style=flat"/>
