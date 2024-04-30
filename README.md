@@ -3,7 +3,7 @@
 
 Java, C++, Typescript, Lua (Never give up, no, no)
 
-Btw: I don't really trust Github, nor like it. You can find my stuff [here](https://chonkyrabbit.eu/git). (You should _really_ get into self-hosting. Very interesting...)
+You can find a lot of my stuff [here](https://chonkyrabbit.eu/git).
 
 
 ### meaningless stats
